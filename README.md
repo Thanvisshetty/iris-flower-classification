@@ -1,4 +1,4 @@
-# iris-flower-classification
+# Iris-flower-classification
 MACHINE LEARNING MODEL FOR IRIS DATASET (https://www.kaggle.com/code/sxsntd/iris-dataset)
 Here's an `README.md` for your Iris dataset prediction project:
 # Iris Flower Prediction System
